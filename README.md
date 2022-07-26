@@ -11,4 +11,4 @@
   <li>Finally, we need to request two user inputs; first for the user’s email and then for the OTP that the user has received.</li>
   </ol>
   
-<p>So this is the complete process of creating an OTP verification application using Python. In the section below, I will take you through how to implement these steps using Python for the task of OTP verification.</p>
+<p>So this is the complete process of creating an OTP verification application using Python.</p>
